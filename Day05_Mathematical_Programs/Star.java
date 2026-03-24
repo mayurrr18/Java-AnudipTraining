@@ -3,7 +3,7 @@ import java.util.*;
 class Cricket{
     int a;
 	public void match() {
-		System.out.println("Today is match");
+		System.out.println("tttoday is match");
         Scanner sc=new Scanner(System.in);
         a=sc.nextInt();
 		

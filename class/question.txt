@@ -1,0 +1,4 @@
+/* wap largest among 2 program
+wap to check wheather a person is eligible for voting or not*
+java largest among 3number 
+check number is even or not*/
