@@ -9,10 +9,10 @@ public class AreaOf {
         System.out.println("Enter your choice");
         int ch=sc.nextInt();
 
-        switch(ch)
-        {
+        switch(ch)  
+          {
           case 1:
-            System.out.println("enter radius");
+            System.out.println("Enter radius");
             num1=sc.nextDouble();
             double pie=3.14;
             ans=pie*num1*num1;
